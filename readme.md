@@ -1,2 +1,2 @@
-# hi jin 
+# bye jin 
 - im writing over your code 
